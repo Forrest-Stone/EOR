@@ -1,0 +1,8 @@
+Question: How should the number of aircraft be adjusted to maximize economic efficiency if the operating cost of the large aircraft (Type A) is reduced to $7,000?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the operating cost for Type A aircraft\noperating_cost_per_aircraft['A'] = 7000"
+}
+```

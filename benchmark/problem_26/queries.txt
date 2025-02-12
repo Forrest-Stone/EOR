@@ -1,0 +1,10 @@
+How should the loan allocation be adjusted to optimize returns if the bank decides to increase the total risk exposure limit to $20,000?
+How will the optimal loan combination change if the risk of personal loans increases to 15% while the return remains unchanged?
+How should the fund allocation be adjusted to maximize expected returns if the risk exposure of personal loans increases to $10,000 and the return rate of corporate loans increases to 18%?
+How should the loan portfolio be reassessed to maintain maximum returns if the risk exposure of corporate loans decreases to $8,000 and the return rate of personal loans decreases to 4%?
+How can maximum returns be achieved if the bank must allocate at least $60,000 of funds to personal loans?
+How should the overall loan portfolio be adjusted if the bank decides to change the fund allocation ratio between personal loans and corporate loans to 4:1 and requires total risk exposure not to exceed $15,000?
+How should the overall loan portfolio be adjusted if the bank decides to change the fund allocation ratio between personal loans and corporate loans to 3:2?
+How should the loan portfolio be reassessed if the return rate of corporate loans increases to 16% while the return rate of personal loans decreases to 4%?
+How should the loan portfolio be adjusted to maintain maximum returns if both the risk exposure of personal loans and corporate loans increase by 10% and the bank decides to increase the total risk exposure limit to $25,000?
+How will the optimal fund allocation change if the constraint that the risk exposure of personal loans must not exceed $8,000 is removed?

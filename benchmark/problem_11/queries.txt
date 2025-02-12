@@ -1,0 +1,10 @@
+How would the total cost change if the limit on the total number of activities for communities x1 and x2 is increased to 600?
+How would the total cost change if the limit on the total number of activities for communities x2 and x3 is decreased to 200?
+How would the total cost change if the difference in the number of activities between communities x3 and x4 is increased to 150?
+How would the total cost change if the difference in the number of activities between communities x4 and x1 is decreased to 30?
+How would the total cost change if the unit cost for community x2 increases to $150?
+How would the total cost change if the unit costs for communities x3 and x4 are each reduced by 10%?
+If the number of activities in community x2 must be at least 10 more than in community x4, how should activities be allocated to minimize total costs?
+If the cost for community x3 decreases to $150, but community x3 must handle at least 10 activities, how should activities be allocated to minimize total costs?
+If the number of activities in community x2 decreases to 300, but the total activities in communities x1 and x3 must be at least 100, how should activities be allocated to minimize total costs?
+How would the total cost change if the constraint that the total number of activities for communities x1 and x2 cannot exceed 500 is removed?

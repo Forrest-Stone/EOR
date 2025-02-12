@@ -1,0 +1,9 @@
+Question: How will the optimal arrangement change if the maximum operating time for production line x1 increases to 950 hours, while the minimum operating time for x3 must not be less than 60 hours?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the maximum operating time limit for production line x1\nmax_operating_time['x1'] = 950",
+    "ADD CONSTRAINT": "# Ensure that the minimum operating time for x3 is at least 60 hours\nm.addConstr(x['x3'] >= 60, name='MinConstraint_x3')"
+}
+```

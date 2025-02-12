@@ -1,0 +1,10 @@
+How would the supply plan and total cost change if the total energy demand increases to 10,000 MW?
+How would the supply plan and total cost change if the maximum capacity for wind power increases to 4,000 MW?
+How would the supply plan and total cost change if the unit costs for each energy source increase by 10%?
+How would the supply plan and total cost change if the maximum capacity for natural gas decreases to 3,000 MW and its unit cost decreases to 20 CNY/MW?
+How would the supply plan and total cost change if the city decides that the supply of wind power must account for 30% of the total supply?
+How would the supply plan and total cost change if the cost of coal-fired power decreases to 18 CNY/MW?
+How should the energy sources be allocated to minimize total cost while meeting all constraints if the capacity for natural gas increases to 5,000 MW, but the total supply of wind and natural gas must not exceed 6,000 MW?
+How should the energy sources be allocated to minimize total cost while meeting all constraints if the unit cost of coal-fired power increases to 22 CNY/MW, but the total supply of natural gas and wind power must be at least 5,000 MW?
+How should the energy sources be allocated to minimize total cost while meeting all constraints if the city's total energy demand increases to 8,500 MW and the minimum supply ratio for wind power is set at 25%?
+How would the supply plan and total cost change if we remove the constraint that for environmental considerations, the supply of wind power should account for at least 20% of the total supply?

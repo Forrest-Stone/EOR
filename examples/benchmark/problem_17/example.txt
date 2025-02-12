@@ -1,0 +1,8 @@
+Question: How will the optimal worker allocation change if the requirement for the number of workers for wheat harvesting is reduced from at least 30% to 20%?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Change the minimum workers for wheat harvesting as a percentage of total workers\nmin_workers_wheat = 0.2"
+}
+```

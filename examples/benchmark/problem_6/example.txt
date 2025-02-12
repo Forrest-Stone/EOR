@@ -1,0 +1,9 @@
+Question: How should the energy sources be allocated to minimize total cost while meeting all constraints if the unit cost of coal-fired power increases to 25 CNY/MW, but the total supply of natural gas and wind power must be at least 6,000 MW?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# The unit cost for coal-fired power needs to be updated\nunit_costs['Coal'] = 25",
+    "ADD CONSTRAINT": "# The combined supply of natural gas and wind power must be at least 6000 MW\nm.addConstr(x['NaturalGas'] + x['Wind'] >= 6000, name=\"GasAndWindMinSupply\")"
+}
+```

@@ -1,0 +1,12 @@
+Optimization problem solved. The objective value is: 13600.0
+Optimization problem solved. The objective value is: 13600.0
+Optimization problem solved. The objective value is: 13600.0
+Optimization problem solved. The objective value is: 13850.0
+Optimization problem solved. The objective value is: 13300.0
+infeasible
+Conflicting Constraints:
+['WaterDifferenceRequirementX3X4b', 'WaterDifferenceRequirementX4X3b']
+Optimization problem solved. The objective value is: 12100.0
+Optimization problem solved. The objective value is: 13600.0
+Optimization problem solved. The objective value is: 11833.249999999998
+Optimization problem solved. The objective value is: 16400.0

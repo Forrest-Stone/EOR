@@ -1,0 +1,8 @@
+Question: How should the servers be allocated to minimize total energy consumption if the number of servers in data center C increases to 400?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the maximum number of servers for data center C\nmax_servers['C'] = 400"
+}
+```

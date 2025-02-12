@@ -1,0 +1,8 @@
+Question: How should the resource exchange plan be adjusted to minimize total costs if the resource demand of University A increases to 260?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Updating resource demands based on new requirements\nresource_demand['A'] = 260"
+}
+```

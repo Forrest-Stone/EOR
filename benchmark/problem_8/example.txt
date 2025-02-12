@@ -1,0 +1,39 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 3 rows, 3 columns and 8 nonzeros
+Model fingerprint: 0xc7a7cc06
+Variable types: 0 continuous, 3 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 3e+01]
+  Objective range  [1e+01, 2e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [3e+01, 1e+02]
+Found heuristic solution: objective 600.0000000
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 8 nonzeros
+Variable types: 0 continuous, 3 integer (0 binary)
+Found heuristic solution: objective 595.0000000
+
+Root relaxation: objective 8.956899e+01, 3 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   89.56899    0    3  595.00000   89.56899  84.9%     -    0s
+H    0     0                     110.0000000   89.56899  18.6%     -    0s
+
+Explored 1 nodes (3 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 32 (of 32 available processors)
+
+Solution count 3: 110 595 600 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+02, best bound 1.100000000000e+02, gap 0.0000%
+Optimal solution found. The lowest price is: 110.0 yuan
+Chicken Breast Intake: 2.0 grams
+Brown Rice Intake: 4.0 grams
+Avocado Intake: 2.0 grams

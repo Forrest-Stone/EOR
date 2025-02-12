@@ -1,0 +1,8 @@
+Question: If the travel agency decides to add a VIP service that requires a separate bus for 100 people, how should the remaining buses and minibuses be allocated to minimize costs while meeting the transportation needs of the remaining 300 people?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the maximum number of buses\nmax_buses = 8\n#Update the total number of people requiring transportation\ntransportation_needs = 300"
+}
+```

@@ -1,0 +1,8 @@
+Question: How should the vehicle operating time be redistributed to meet the goods demand if it is required that the difference in operating times between each type of vehicle cannot exceed 2 hour?
+
+Answer Code:
+```json
+{
+    "ADD CONSTRAINT": "# Constraint: The difference in operating times between Type X and Type Y vehicles must not exceed 2 hour\nm.addConstr(operating_hours['X'] - operating_hours['Y'] <= 2, name='OperatingTimeDifferenceConstraint_1')\nm.addConstr(operating_hours['X'] - operating_hours['Y'] >= -2, name='OperatingTimeDifferenceConstraint_2')"
+}
+```

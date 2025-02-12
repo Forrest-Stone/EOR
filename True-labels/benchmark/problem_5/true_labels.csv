@@ -1,0 +1,14 @@
+Optimization problem solved. The objective value is: 12630.0
+Optimization problem solved. The objective value is: 10290.0
+Optimization problem solved. The objective value is: 11320.0
+Optimization problem solved. The objective value is: 10840.0
+infeasible
+Conflicting Constraints:
+['Demand_1', 'Demand_2', 'Demand_3', 'Demand_4', 'Min_Storage_A', 'Min_Storage_B', 'Min_Storage_C']
+Optimization problem solved. The objective value is: 12100.0
+infeasible
+Conflicting Constraints:
+['Demand_3', 'Demand_4', 'DiffWarehouse_Markets_3_4_A', 'DiffWarehouse_Markets_3_4_B', 'DiffWarehouse_Markets_3_4_C']
+Optimization problem solved. The objective value is: 8490.0
+Optimization problem solved. The objective value is: 11390.0
+Optimization problem solved. The objective value is: 11410.0

@@ -1,0 +1,10 @@
+How should the activity selection be adjusted to maximize customer satisfaction if the customer's budget increases to $1,500?
+How should the activity combination be reassessed to meet the budget and improve satisfaction if the cost of Activity A decreases to $80?
+How should the activities be rearranged to maximize satisfaction if the total number of activities chosen by the customer is increased to 6?
+If the costs for Activities C and D decrease by 20%, how will the total customer satisfaction change?
+How should the activity combination be adjusted to maximize customer satisfaction if the total number of Activities B and D must be at least 2?
+How should the activity combination be adjusted to maximize satisfaction if the cost of Activity C increases to $350 and the satisfaction score of Activity D increases to 180?
+How should the activities be rearranged to maintain maximum satisfaction if the budget remains at $1,000 but the cost of Activity A increases to $120?
+How should the activity selection be adjusted to maintain the best combination if the satisfaction score of Activity B decreases to 70 and the cost of Activity C decreases to $280?
+How should the activity combination be adjusted to maximize customer satisfaction if the cost of Activity D decreases to $390 and the satisfaction score of Activity A increases to 55?
+How will the optimal activity selection change if the constraint that the total number of activities chosen by the customer cannot exceed 5 is removed?

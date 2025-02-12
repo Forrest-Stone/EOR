@@ -1,0 +1,8 @@
+Question: If the potential customer coverage from Twitter ads increases to 2000 people per day, how should the company adjust its advertising strategy to maximize potential customer coverage?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the reach per advertising campaign for Twitter due to increased effectiveness\nreach_per_campaign['Twitter'] = 2000"
+}
+```

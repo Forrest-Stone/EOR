@@ -1,0 +1,10 @@
+How should the transportation plan be adjusted to minimize total transportation costs if the transportation capacity of distribution center A increases to 120?
+How should the transportation quantities be adjusted if the demand for city 1 decreases to 40 and the transportation capacity of distribution center A decreases to 80?
+How should the other transportation costs be adjusted to optimize the transportation plan if the transportation cost from distribution center B to city 3 decreases to 4?
+If the transportation costs from distribution center A to all cities change to 3, and the demand for city 4 decreases to 80, how should the transportation arrangements be adjusted?
+How should the transportation quantities be adjusted to maintain the lowest total cost if the transportation cost from distribution center B to city 2 increases to 5?
+How should the transportation arrangements be adjusted if the demand for city 3 increases to 90 and the transportation capacity of distribution center B increases to 250?
+How should the optimal transportation plan be reassessed if the transportation costs for each city increase by 10%?
+How should the transportation arrangements be adjusted if the transportation cost from distribution center A to city 1 increases to 4 and the demand for city 2 decreases to 70?
+How should the transportation arrangements be adjusted to meet the condition that the quantity of drugs transported to city 4 must be less than or equal to the quantity transported to city 3?
+How should the transportation arrangements be adjusted to maintain the lowest cost if the total quantity of drugs transported to cities 1 and 2 does not exceed 120 units?

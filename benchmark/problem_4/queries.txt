@@ -1,0 +1,10 @@
+If the company can conduct a maximum of 11 advertising campaigns, how will the total advertising cost and the number of potential customers reached change?
+If the advertising cost on Instagram decreases to $800 per day, how will the total advertising cost and the advertising allocation plan change?
+If the total number of potential customers on Facebook and Twitter must exceed 4000, how should the company allocate its advertising campaigns to meet this requirement?
+If the advertising cost on Instagram increases to $1100 per day, but the number of potential customers reached on Instagram increases by 10%, how should the company adjust its advertising allocation to maximize potential customer coverage?
+If the constraint that the company can only advertise a maximum of 10 times is removed, how should the advertising allocation plan be adjusted to minimize total costs?
+If the potential customer coverage from Facebook ads increases to 3000 people per day, how should the company adjust its advertising strategy to maximize potential customer coverage?
+If the company wishes to limit the number of ads on any platform to no more than 5 times, and reach at least 12000 potential customers, how should the advertising activities be allocated to minimize total cost?
+If the company wants the number of ads on Facebook to be equal to the number on Instagram and reach at least 8000 potential customers, how should the advertising activities be allocated to minimize total cost?
+If the potential customer reach on each platform increases by 10% per day, and the total customer reach on Facebook and Instagram is no less than 5000, how should the advertising activities be allocated to minimize total costs?
+If the company wants the total number of ads on Twitter and Instagram to be no less than 5 times, and the advertising costs on each platform increase by 10%, how should the advertising activities be allocated to minimize total cost?

@@ -1,0 +1,10 @@
+If the garbage production in Region 1 increases to 150 tons, how will the total cost change?
+If the garbage production in Region 3 decreases to 100 tons while the production in Region 4 increases to 250 tons, how will the minimum total cost change?
+If the transportation cost per kilometer increases from 1 yuan/ton to 1.5 yuan/ton, and the garbage from Regions 1 and 2 must be processed by different centers, how will the total cost change?
+If the unit processing cost at Center 1 decreases to 8 yuan/ton and the garbage from Region 4 must be processed at Center 1, what impact will this have on the minimum total cost?
+If the garbage production in Region 2 decreases to 150 tons while the unit processing cost at Center 1 increases to 12 yuan/ton, what will be the impact on the minimum total cost?
+If the unit processing costs at Center 1 and Center 2 increase to 13 yuan/ton and 18 yuan/ton, respectively, how will the minimum total cost change?
+If the transportation distances from Regions 1 and 2 to Center 1 are reduced to 8 kilometers and 15 kilometers, respectively, what will be the change in the minimum total cost?
+If Center 2 must process at least 250 tons of garbage, how will the minimum total cost change?
+If the total garbage processed by Center 1 must be at least 100 tons more than that processed by Center 2, how will the minimum total cost change?
+If the garbage production in Regions 3 and 4 both increases by 30 tons and the unit processing costs at Centers 1 and 2 decrease by 10%, how will the minimum total cost be affected?

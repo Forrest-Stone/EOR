@@ -1,0 +1,14 @@
+Optimization problem solved. The objective value is: 64500.0
+Optimization problem solved. The objective value is: 69600.0
+Optimization problem solved. The objective value is: 88000.0
+Optimization problem solved. The objective value is: 65900.0
+Optimization problem solved. The objective value is: 70700.0
+Optimization problem solved. The objective value is: 69000.0
+infeasible
+Conflicting Constraints:
+['ProductionQuantityConstraint_1', 'ProductionQuantityConstraint_2', 'ProductionQuantityConstraint_3', 'ProductionCapacityConstraint_A', 'ProductionCapacityConstraint_B']
+infeasible
+Conflicting Constraints:
+['ProductionQuantityConstraint_1', 'ProductionQuantityConstraint_3', 'Task1_and_3_DifferentLines_A', 'Task1_and_3_DifferentLines_B']
+Optimization problem solved. The objective value is: 73500.0
+Optimization problem solved. The objective value is: 69000.0

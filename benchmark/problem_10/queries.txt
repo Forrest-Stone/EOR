@@ -1,0 +1,10 @@
+How would the total expected benefits change if the construction budget increases to 10 million?
+How would the allocation of parks change to maximize expected benefits if the construction costs are modified to: A: 1.2 million, B: 1.4 million, C: 1.8 million, D: 2.3 million?
+How would the total expected benefits change if the construction costs for areas B and C increase by 20%?
+How would the total expected benefits change if the expected benefits for each area increase by 10%?
+How would the total expected benefits change if the number of parks in areas A and D must be equal?
+How would the total expected benefits change if the construction costs for areas C and D decrease by 15%?
+How should the parks be allocated to maximize expected benefits if the total budget for the city is reduced to 6 million and the number of parks in each area cannot exceed 2?
+How should the parks be allocated to maximize expected benefits if the total budget for the city increases to 8 million, but the number of parks in each area cannot exceed 3?
+How should the parks be allocated to maximize expected benefits if areas A and B must each have at least 1 park?
+How would the allocation change if the constraint on the difference in the number of parks between any two areas is completely removed?

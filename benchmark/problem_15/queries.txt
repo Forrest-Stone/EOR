@@ -1,0 +1,10 @@
+If the maximum allocation limit for spectrum resources at Base Station 5 decreases from 90% to 80%, how should the spectrum resources be allocated to maximize total throughput?
+If each base station must retain at least 15% of the spectrum resources for emergencies, how should the spectrum resources be allocated to maximize total throughput?
+If the limit on the difference in spectrum resources between base stations increases to 15%, how should the spectrum resources be allocated to maximize total throughput?
+If the spectrum resources for Base Stations 4 and 5 decrease to 180MHz and 200MHz, respectively, how should the spectrum resources be allocated to maximize total throughput while satisfying other constraints?
+If the difference limit in spectrum resources between Base Stations 1 and 3 reduces from 10% to 5%, how should the spectrum resources be allocated to maximize total throughput?
+If the spectrum allocation for Base Station 5 must be at least 10MHz more than that for Base Station 3, and the expected throughput at Base Station 5 increases to 115Mbps, how will the optimal allocation change?
+If the spectrum resources for Base Station 2 increase to 130MHz, and the expected throughput for Base Station 4 decreases to 90Mbps, how should the spectrum resources be allocated to maximize total throughput?
+If the total spectrum allocation for Base Stations 1 and 4 cannot be less than 200Mbps, how should the spectrum resources be allocated to meet this requirement and maximize total throughput?
+If the spectrum allocation for Base Station 2 cannot exceed that of Base Station 1, how will the optimal allocation change?
+If the constraint, "the difference in spectrum resources between any two base stations cannot exceed 10%" is removed, how will the maximum total throughput change?

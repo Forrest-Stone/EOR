@@ -1,0 +1,10 @@
+If the traffic flow at intersection A increases by 10%, how should the green channels be allocated to achieve the optimization goals?
+If the setup cost for green channels at each intersection decreases by 5%, how should the green channels be allocated to achieve the optimization goals?
+If the traffic flow at intersection B increases to 450 vehicles per hour, and its green channel setup cost increases to 850 yuan per lane, how should the green channels be allocated to achieve the optimization goals?
+If only the traffic flow at intersection A remains unchanged, while the traffic flow at the other intersections increases by 10%, and the setup costs for these intersections decrease by 5%, how should the green channels be allocated to achieve the optimization goals?
+If a maximum of 3 green channels can be set up at intersection A, and at least 2 at intersection D, how should the green channels be allocated to achieve the optimization goals?
+If a maximum of 8 green channels can be set up citywide, how should the transportation department allocate the green channels to achieve the optimization goals?
+If the total number of green channels set up at intersections C and D cannot be less than 4, how should the transportation department allocate the green channels to achieve the optimization goals?
+If setting up one green channel can increase the traffic flow at an intersection by 10%, and the setup cost at intersection A is reduced to 950 yuan per lane, how should the transportation department allocate the green channels to achieve the optimization goals?
+If the total number of green channels set up at intersections A and D cannot exceed 5, and the traffic flow at intersection B decreases to 350 vehicles per hour, how should the green channels be allocated to achieve the optimization goals?
+If we remove the constriant, "Ensure fair traffic service", how should the transportation department allocate the green channels to achieve the optimization goals?

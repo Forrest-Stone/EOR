@@ -1,0 +1,10 @@
+How will the optimal resource allocation change if the personnel demand for seagrass increases to 40 units while the funding demand for corals increases to 35 units?
+How should the resource allocation be adjusted to maximize the total population of marine species if the funding demand for dolphins decreases to 10 units?
+How should the resources be reallocated to maximize the total population of the five marine species if the total personnel available in the marine protected area increases to 120 units?
+How should the resource allocation be rearranged to achieve maximum protection effectiveness if the personnel demand for dolphins decreases to 8 units while the funding demand for turtles increases to 15 units?
+How should the resource allocation be adjusted to ensure maximum population if the resource demand for each species increases by 1 unit?
+How should the resource allocation strategy be readjusted to maximize population numbers if the resource allocation for corals must not be less than 40% of their demand?
+How should the resource allocation strategy be adjusted to maximize the population of the five marine species if the marine protected area reduces personnel resources by 10 units and increases funding by 10 units?
+How should the resource allocation be adjusted if the resource allocation for seagrass must meet 60% of its demand while the funding demand for corals decreases to 25 units?
+How will the optimal resource allocation change if the funding demand for sharks decreases to 15 units while the personnel demand for dolphins increases to 15 units?
+How will the resource allocation plan change to achieve optimal results if the constraint that the resource allocation for corals and seagrass must not be less than 50% of their requirements is removed?

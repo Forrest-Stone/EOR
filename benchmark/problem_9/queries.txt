@@ -1,0 +1,10 @@
+How would the minimum total cost change if the number of people in the tour group increases to 500?
+How would the minimum total cost change if the cost of buses rises to 2500 yuan and the cost of minibuses decreases to 1000 yuan?
+What would happen to the minimum total cost if the total number of buses and minibuses cannot be less than 10?
+How would the minimum total cost change if the number of buses cannot exceed 6?
+How would the minimum total cost change if the number of minibuses cannot be less than 2?
+How would the minimum total cost change if the capacity of buses and minibuses increases to 60 people and 30 people, respectively?
+How should the travel agency allocate buses and minibuses to minimize costs if the cost of each bus decreases to 1800 yuan, but the number of buses cannot exceed 15?
+How should the travel agency allocate buses and minibuses to minimize costs if the maximum capacity of each minibus increases to 30 people, but the number of minibuses cannot exceed 18?
+If the travel agency decides to add a VIP service that requires a separate bus for 50 people, how should the remaining buses and minibuses be allocated to minimize costs while meeting the transportation needs of the remaining 350 people?
+How should the travel agency allocate buses and minibuses to minimize costs if the constraint that the number of minibuses cannot exceed 20 is removed?

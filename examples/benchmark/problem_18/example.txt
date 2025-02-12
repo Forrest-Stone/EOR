@@ -1,0 +1,8 @@
+Question: How should the production plan be adjusted to maximize profit if the selling price of bookshelves decreases to $100?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Change the selling price\nselling_price_bookshelves = 100\n# Recalculate profit per bookshelf due to updated selling price\nprofit_per_bookshelf = selling_price_bookshelves - manufacturing_cost_bookshelves"
+}
+```

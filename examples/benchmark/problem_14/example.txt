@@ -1,0 +1,8 @@
+Question: If the unit processing cost at Center 1 decreases to 10 yuan/ton, what impact will this have on the minimum total cost?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update processing cost for Center 1\nprocessing_cost[1] = 10"
+}
+```

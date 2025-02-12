@@ -1,0 +1,9 @@
+Question: If the limit on the difference in spectrum resources between base stations increases to 20%, how should the spectrum resources be allocated to maximize total throughput?
+
+Answer Code:
+```json
+{
+    "DELETE CONSTRAINT": "\n# Constraint: The difference in spectrum resource allocation between base stations cannot exceed 10%\nfor i in base_stations:\n    for j in base_stations:\n        if i < j:\n            m.addConstr(\n                allocated_resources[i] -\n                allocated_resources[j] <= 0.1 * spectrum_resources[i],\n                name=f\"ResourceDifferenceConstraint_{i}_{j}_1\"\n            )\n            m.addConstr(\n                allocated_resources[j] -\n                allocated_resources[i] <= 0.1 * spectrum_resources[j],\n                name=f\"ResourceDifferenceConstraint_{i}_{j}_2\"\n            )",
+    "ADD CONSTRAINT": "# Constraint: The difference in spectrum resource allocation between base stations cannot exceed 20%\nfor i in base_stations:\n    for j in base_stations:\n        if i < j:\n            m.addConstr(\n                allocated_resources[i] -\n                allocated_resources[j] <= 0.2 * spectrum_resources[i],\n                name=f\"ResourceDifferenceConstraint_{i}_{j}_1\"\n            )\n            m.addConstr(\n                allocated_resources[j] -\n                allocated_resources[i] <= 0.2 * spectrum_resources[j],\n                name=f\"ResourceDifferenceConstraint_{i}_{j}_2\"\n            )"
+}
+```

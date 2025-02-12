@@ -1,0 +1,8 @@
+Question: How would the maximum total returns change if the expected returns for Project A increase to $1,300,000 and its funding requirement decreases to $300,000?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the parameters for Project A\nexpected_returns['A'] = 130  # new expected return for Project A\nfunding_requirements['A'] = 30   # new funding requirement for Project A"
+}
+```

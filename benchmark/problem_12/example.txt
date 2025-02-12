@@ -1,0 +1,31 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 2 rows, 4 columns and 8 nonzeros
+Model fingerprint: 0x6a669173
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [1e+01, 1e+02]
+  Objective range  [1e+02, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [8e+01, 2e+02]
+Found heuristic solution: objective 450.0000000
+Presolve removed 2 rows and 4 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 32 available processors)
+
+Solution count 2: 550 450 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.500000000000e+02, best bound 5.500000000000e+02, gap 0.0000%
+Maximized total returns: $0.06 million
+Selected projects:
+Project A
+Project C
+Project D

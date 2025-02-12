@@ -1,0 +1,10 @@
+Question: How would the minimum daily dietary cost change if the daily fat intake is required to be 0 grams?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the fat requirement\nfat_req = 0",
+    "DELETE CONSTRAINT": "# Constraint: Fat requirement met\nm.addConstr(\n    gp.quicksum(carbs[food] * x[food] for food in foods) >= fat_req,\n    \"FatRequirement\"\n)",
+    "ADD CONSTRAINT": "# Constraint: Fat requirement met\nm.addConstr(\n    gp.quicksum(carbs[food] * x[food] for food in foods) == fat_req,\n    \"NewFatRequirement\"\n)"
+}
+```

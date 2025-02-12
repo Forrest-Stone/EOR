@@ -1,0 +1,12 @@
+Optimization problem solved. The objective value is: 26.0
+Optimization problem solved. The objective value is: 25.0
+Optimization problem solved. The objective value is: 25.0
+Optimization problem solved. The objective value is: 25.0
+Optimization problem solved. The objective value is: 25.0
+Optimization problem solved. The objective value is: 22.0
+infeasible
+Conflicting Constraints:
+['Constraint5_1', 'Constraint5_2']
+Optimization problem solved. The objective value is: 23.0
+Optimization problem solved. The objective value is: 25.0
+Optimization problem solved. The objective value is: 25.0

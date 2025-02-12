@@ -1,0 +1,16 @@
+Optimization problem solved. The objective value is: 940.0
+infeasible
+Conflicting Constraints:
+['SupplyCapacity_A', 'SupplyCapacity_B', 'DemandSatisfaction_1', 'DemandSatisfaction_2', 'DemandSatisfaction_3', 'DemandSatisfaction_4']
+Optimization problem solved. The objective value is: 940.0
+Optimization problem solved. The objective value is: 810.0
+Optimization problem solved. The objective value is: 1120.0
+Optimization problem solved. The objective value is: 1060.0
+Optimization problem solved. The objective value is: 1056.0
+Optimization problem solved. The objective value is: 990.0
+infeasible
+Conflicting Constraints:
+['DemandSatisfaction_3', 'DemandSatisfaction_4', 'City4_less_than_City3']
+infeasible
+Conflicting Constraints:
+['DemandSatisfaction_1', 'DemandSatisfaction_2', 'Limit_transport_cities_1_2']

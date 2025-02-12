@@ -1,0 +1,10 @@
+How would the maximum total returns change if the expected returns for Project A increase to $1,200,000 and its funding requirement decreases to $400,000?
+What impact would it have on total returns if the funding requirement for Project B decreases to $700,000 and the manpower requirement for Project C decreases to 25 people?
+How would the allocation change if the manpower requirement for Project C decreases to 25 people?
+What changes in allocation would occur if the total manpower resources are allowed to exceed 80 people, with a new upper limit set at 100 people?
+How would total returns be affected if the expected returns for Project B increase to $1,600,000 and the total manpower resources decrease to 60 people?
+What impact would an increase of 10% in the maximum manpower requirement for each project have on total returns?
+How would the allocation change if the expected returns for Project B increase to $1,800,000 and the funding limit is raised from $200,000 to $250,000?
+How would the allocation change if a maximum of two projects must be funded?
+How would the optimal resource allocation change if investment in Project B is mandatory and the expected returns for Project A increase to $1,500,000?
+How would total returns change if the constraint that total funding must be greater than or equal to $200,000 is removed?

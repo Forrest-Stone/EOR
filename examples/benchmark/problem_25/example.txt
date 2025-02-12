@@ -1,0 +1,8 @@
+Question: How should the production plan be adjusted to maintain maximum total profit if the production cost of drug B increases to $38?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the production cost of drug B to $38\nproduction_cost['B'] = 38"
+}
+```

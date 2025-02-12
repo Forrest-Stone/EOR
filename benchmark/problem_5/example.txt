@@ -1,0 +1,39 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 7 rows, 12 columns and 24 nonzeros
+Model fingerprint: 0x8a17ee08
+Variable types: 0 continuous, 12 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+01, 7e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 3e+02]
+Found heuristic solution: objective 14070.000000
+Presolve removed 7 rows and 12 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 32 available processors)
+
+Solution count 2: 11390 14070 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.139000000000e+04, best bound 1.139000000000e+04, gap 0.0000%
+Minimum total cost: 11390.00
+Quantity shipped from warehouse A to market 1: 30.0
+Quantity shipped from warehouse A to market 2: -0.0
+Quantity shipped from warehouse A to market 3: 70.0
+Quantity shipped from warehouse A to market 4: -0.0
+Quantity shipped from warehouse B to market 1: 0.0
+Quantity shipped from warehouse B to market 2: 20.0
+Quantity shipped from warehouse B to market 3: 0.0
+Quantity shipped from warehouse B to market 4: 80.0
+Quantity shipped from warehouse C to market 1: -0.0
+Quantity shipped from warehouse C to market 2: -0.0
+Quantity shipped from warehouse C to market 3: -0.0
+Quantity shipped from warehouse C to market 4: -0.0

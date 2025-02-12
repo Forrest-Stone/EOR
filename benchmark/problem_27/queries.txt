@@ -1,0 +1,10 @@
+How will the production arrangement and profit be affected if the daily raw material supply is reduced to 4,000 units?
+If the company has the opportunity to increase the selling price of beverages by 20% but the production cost increases by 5%, how should the production plan change to maximize profit?
+How should the production plan be adjusted to maximize profit if the company’s production time increases to 12 hours?
+How should the production arrangement be adjusted to maintain maximum profit if the production cost of desserts increases to 12 yuan and the selling price of beverages decreases to 8 yuan?
+How should production be allocated to maximize profit if at least 100 units of beverages must be produced?
+How should the production arrangement be adjusted to optimize total profit if the raw material requirement for beverages increases to 2 units and the production time requirement for desserts increases to 0.025 hours?
+How should the production quantity be adjusted to maintain maximum profit if the raw material requirement for desserts decreases to 1.8 units and the production cost for beverages increases to 5.5 yuan?
+How should the production plan be adjusted if the production time limit for desserts decreases to 0.015 hours and the production time limit for beverages increases to 0.012 hours?
+How should the production quantity be adjusted to maintain maximum profit if the selling price of desserts decreases to 18 yuan and the production cost for beverages increases to 6 yuan?
+How will the optimal production arrangement change if the constraint that the available raw materials must not exceed 5,000 units is removed?

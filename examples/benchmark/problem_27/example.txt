@@ -1,0 +1,8 @@
+Question: How should the production plan be adjusted if the production time limit for desserts decreases to 0.015 hours?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Adjust the production time per unit for desserts and beverages\nproduction_time_per_unit['Dessert'] = 0.015"
+}
+```

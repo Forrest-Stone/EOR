@@ -1,0 +1,10 @@
+How should the operating schedule be adjusted to meet the new constraint if the total operating time limit for x1 and x2 is increased to 550 hours?
+How should the operating times of the other production lines be adjusted to minimize costs if the operating time limit for x3 is reduced to 700 hours?
+If the operating time of production line x2 must not exceed that of production line x1, how should the allocation be arranged to achieve the lowest total cost?
+How will the optimal arrangement change if the maximum operating time for production line x1 increases to 900 hours, while the minimum operating time for x3 must not be less than 50 hours?
+How should the arrangement be adjusted if the maximum operating time for production line x1 decreases to 650 hours and the operating time difference between x3 and x4 must not exceed 80 hours?
+How will the optimal operating arrangement change if the operating cost for production line x2 decreases to $90 per hour, while the maximum operating time limit for x3 increases to 850 hours?
+How should the production arrangement be adjusted to maintain the lowest total cost if the operating costs for all production lines increase by 10%?
+How should the other production lines be adjusted to minimize total costs if the total operating time for production lines x1 and x3 must be at least 400 hours?
+How should the arrangements for the other production lines be adjusted to maintain the lowest cost if the operating cost for production line x4 increases to $320 per hour?
+How will the optimal production line arrangement be adjusted if the constraint that the operating time difference between x3 and x4 must not exceed 100 hours is removed?

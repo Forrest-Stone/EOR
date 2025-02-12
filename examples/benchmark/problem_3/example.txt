@@ -1,0 +1,9 @@
+Question: If the total number of green channels set up at intersections A and D cannot exceed 6, and the traffic flow at intersection B decreases to 300 vehicles per hour, how should the green channels be allocated to achieve the optimization goals?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the traffic flow for intersection B\ntraffic_flow['B'] = 300",
+    "ADD CONSTRAINT": "# Add combined channels constraint for intersections A and D\nm.addConstr(x['A'] + x['D'] <= 6, name='AD_channellimit')"
+}
+```

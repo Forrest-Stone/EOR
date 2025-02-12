@@ -1,0 +1,8 @@
+Question: How should the number of ships be adjusted to maximize transportation efficiency if the operating cost of the large cargo ship (Type A) is reduced to $25,000?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the operating cost for Type A ships\noperating_costs['A'] = 25000"
+}
+```

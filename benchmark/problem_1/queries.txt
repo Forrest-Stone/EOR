@@ -1,0 +1,10 @@
+If the energy consumption cost decreases by 10%, what changes will occur in the total production cost?
+If the production cost for task 1 increases to 32 yuan per piece, how should the production tasks be reallocated to maintain the lowest total cost?
+If the energy efficiency consumption standards for each production task increase by 5 kw, how should the production plan be adjusted to stay within the total energy efficiency consumption standards?
+If the energy consumption cost for task 2 decreases by 20%, and its production cost decreases by 10%, what changes will occur in the total production cost and task allocation?
+If the production costs for tasks 1 and 3 each increase to 34 yuan per piece, how should the tasks be allocated to minimize total energy consumption and production cost?
+If the total production quantity for tasks 2 and 3 cannot exceed 550 pieces, how should the tasks be allocated to minimize total energy consumption and production cost?
+If the total production capacity for production line A is reduced to 380 pieces, and task 2 must be completed by production line B, how should the tasks be allocated to minimize total energy consumption and production cost?
+If the production quantity for task 2 increases to 220 pieces, while tasks 1 and 3 must be completed on different production lines, how should the tasks be allocated to minimize total energy consumption and production cost?
+If the maximum energy efficiency consumption standard for task 1 increases to 25 kw, while the energy efficiency consumption for task 3 must not be less than 15 kw, how should the tasks be allocated to minimize total energy consumption and production cost?
+What happens to the total production cost if we delete the conditions, "The task allocation for each production line does not exceed its total production capacity."

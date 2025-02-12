@@ -1,0 +1,27 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 6 rows, 8 columns and 16 nonzeros
+Model fingerprint: 0x53621bdb
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [5e+01, 2e+02]
+Presolve removed 6 rows and 8 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.6000000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  9.600000000e+02
+Minimized total transportation cost: 960.0
+Quantity of drugs transported from distribution center A to city 1: 30.0
+Quantity of drugs transported from distribution center A to city 3: 70.0
+Quantity of drugs transported from distribution center B to city 1: 20.0
+Quantity of drugs transported from distribution center B to city 2: 80.0
+Quantity of drugs transported from distribution center B to city 4: 100.0

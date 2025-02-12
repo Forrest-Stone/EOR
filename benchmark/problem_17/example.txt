@@ -1,0 +1,30 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 4 rows, 3 columns and 10 nonzeros
+Model fingerprint: 0x809e459d
+Variable types: 0 continuous, 3 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [3e-01, 1e+00]
+  Objective range  [1e+01, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve removed 4 rows and 3 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 32 available processors)
+
+Solution count 1: 290 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.900000000000e+02, best bound 2.900000000000e+02, gap 0.0000%
+Minimum total wage costs: $290.0
+Optimal worker allocation:
+Wheat Harvesting: 9.0 workers
+Cow Milking: -0.0 workers
+Chicken Feeding: 20.0 workers

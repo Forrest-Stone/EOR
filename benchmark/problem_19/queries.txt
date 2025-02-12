@@ -1,0 +1,10 @@
+How should the optimal vehicle operating time allocation be adjusted to meet the new demand if the goods demand increases to 150 tons?
+How should the vehicle operating time be adjusted to achieve the lowest cost if the transportation time for Type X vehicles per ton of goods is reduced from 1 hour to 0.6 hours?
+How should the vehicle operating time be adjusted to meet the demand for 100 tons of goods if the capacity of Type Y vehicles decreases to 10 tons?
+How will the best solution for minimizing total costs change if the operating costs for both Type X and Type Y vehicles are reduced by 10%?
+How should the vehicle operating time be redistributed to meet the goods demand if it is required that the operating times for each type of vehicle must be equal?
+How will the optimal vehicle operating time change if the capacity of Type X vehicles increases to 20 tons, but the operating cost of Type Y vehicles increases to $40 per hour?
+How should the vehicle operating time be redistributed to meet the goods demand if it is required that the difference in operating times between each type of vehicle cannot exceed 1 hour?
+How will the optimal vehicle operating allocation change if the operating time limit is reduced from 24 hours to 12 hours?
+How will the optimal operating allocation change if the operating time for Type Y vehicles must be twice that of Type X vehicles?
+How will the best solution for minimizing total costs change if the constraint that the total operating hours for vehicles cannot exceed 24 hours is removed?

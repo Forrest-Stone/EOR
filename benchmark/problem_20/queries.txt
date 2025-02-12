@@ -1,0 +1,10 @@
+How should the resource exchange plan be adjusted to minimize total costs if the resource demand of University A increases to 250 while the resource demand of University B decreases to 250?
+How should resources be redistributed to maintain the lowest cost if the resource exchange costs for University D with other universities increase by 50%?
+How should the resource supply of other universities be rearranged to meet demand and control costs if the resource supply for University C decreases to 200?
+How will the optimal resource exchange arrangement change if the resource demand for University B increases to 350 and the resource supply for University C increases to 300?
+How should the resource exchange plan be adjusted to minimize total costs if University D can only supply resources to University C and cannot exchange with other universities?
+How should the exchange strategy be adjusted to maintain the lowest cost if the resource exchange cost between University A and University B decreases by 50%, while the exchange cost between University C and University D increases by 20%?
+How should the resource exchange plan be replanned to minimize costs if the resource supply quantity for University A decreases to 250 and the demand for University C increases to 300?
+How should the resource exchanges between universities be rearranged to ensure that all demands are met and costs are minimized if both the resource demand and supply for University C increase to 350?
+How should the resource exchange plan be adjusted to minimize total costs if the resource demand for each university decreases by 10%?
+How will the optimal resource exchange plan change if the exchange cost between University A and University C decreases to 2?

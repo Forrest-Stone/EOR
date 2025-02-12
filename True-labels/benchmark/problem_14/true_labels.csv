@@ -1,0 +1,12 @@
+Optimization problem solved. The objective value is: 18900.0
+Optimization problem solved. The objective value is: 18000.0
+infeasible
+Conflicting Constraints:
+['Region_1_Allocation', 'Region_2_Allocation', 'Region1_and_2_different_centers_1', 'Region1_and_2_different_centers_2']
+Optimization problem solved. The objective value is: 22650.0
+Optimization problem solved. The objective value is: 16960.0
+Optimization problem solved. The objective value is: 19790.0
+Optimization problem solved. The objective value is: 16700.0
+Optimization problem solved. The objective value is: 17900.0
+Optimization problem solved. The objective value is: 18075.0
+Optimization problem solved. The objective value is: 19160.0

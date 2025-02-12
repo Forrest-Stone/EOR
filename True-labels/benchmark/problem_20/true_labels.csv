@@ -1,0 +1,14 @@
+Optimization problem solved. The objective value is: 250.0
+Optimization problem solved. The objective value is: 500.0
+infeasible
+Conflicting Constraints:
+['Demand_A', 'Demand_B', 'Demand_C', 'Demand_D', 'Supply_A', 'Supply_B', 'Supply_C', 'Supply_D']
+Optimization problem solved. The objective value is: 600.0
+Optimization problem solved. The objective value is: 2550.0
+Optimization problem solved. The objective value is: 250.0
+infeasible
+Conflicting Constraints:
+['Demand_A', 'Demand_B', 'Demand_C', 'Demand_D', 'Supply_A', 'Supply_B', 'Supply_C', 'Supply_D']
+Optimization problem solved. The objective value is: 500.0
+Optimization problem solved. The objective value is: 175.0
+Optimization problem solved. The objective value is: 400.0

@@ -1,0 +1,8 @@
+Question: If the resource difference between projects x2 and x3 must be at least $6 million, how will this affect the total investment?
+
+Answer Code:
+```json
+{
+    "ADD CONSTRAINT": "# Additional constraint: The resource difference between projects x2 (WaterResourceProtection) and x3 (ClimateChange) must be at least $6 million.\nm.addConstr(x['WaterResourceProtection']  - x['ClimateChange'] >= 6, name='Constraint5_1')\nm.addConstr(x['WaterResourceProtection']  - x['ClimateChange'] <= -6, name='Constraint5_2')"
+}
+```

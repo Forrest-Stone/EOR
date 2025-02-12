@@ -1,0 +1,24 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 4 rows, 2 columns and 6 nonzeros
+Model fingerprint: 0x8cd44b51
+Coefficient statistics:
+  Matrix range     [1e-02, 2e+00]
+  Objective range  [5e+00, 1e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 5e+03]
+Presolve removed 4 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    5.0000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  5.000000000e+03
+Maximized profit: 5000.0
+Production volume for Dessert: 500.0
+Production volume for Beverage: 0.0

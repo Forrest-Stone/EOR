@@ -1,0 +1,32 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 2 rows, 3 columns and 6 nonzeros
+Model fingerprint: 0x94c47dcf
+Variable types: 0 continuous, 3 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [7e+03, 3e+04]
+  Bounds range     [2e+01, 4e+01]
+  RHS range        [6e+01, 2e+04]
+Found heuristic solution: objective 600000.00000
+Presolve time: 0.00s
+Presolved: 2 rows, 3 columns, 6 nonzeros
+Variable types: 0 continuous, 3 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds (0.00 work units)
+
+Explored 1 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 32 (of 32 available processors)
+
+Solution count 1: 600000 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.000000000000e+05, best bound 6.000000000000e+05, gap 0.0000%
+Minimized total operating cost: 600000
+Number of Type A ships: 20.0
+Number of Type B ships: -0.0
+Number of Type C ships: -0.0

@@ -1,0 +1,10 @@
+If the demand for Market 1 and Market 2 increases to 40 and 30, how will the total storage and transportation costs change?
+If the storage costs for warehouses A, B, and C decrease by 10%, how will the total storage and transportation costs change?
+If the transportation cost from warehouse B to Market 3 decreases to 1, and the transportation cost from warehouse C to Market 4 increases to 2, how will the total storage and transportation costs change?
+If the maximum storage capacity of warehouse A increases to 150, and the maximum storage capacity of warehouse B decreases to 150, how will the total storage and transportation costs change?
+If the company decides to store at least 100 units of products in each warehouse, how will the total storage and transportation costs change?
+If the demand for Market 4 increases to 100, and the maximum storage capacity of warehouse A increases to 150, how will the total storage and transportation costs change?
+If the maximum storage capacity of warehouse A increases to 150, but Markets 3 and 4 must be supplied from different warehouses, how should the storage and distribution plan be designed to minimize total costs while satisfying all constraints?
+If the storage cost for warehouse B decreases to $40, and warehouse A is decommissioned (i.e., cannot serve any markets), how should the storage and distribution plan be designed to minimize total costs?
+If the maximum storage capacity of warehouse C decreases to 200, but Markets 2 and 4 must be supplied from different warehouses, how should the storage and distribution plan be designed to minimize total costs while satisfying all constraints?
+If the demand for Market 1 increases to 50, and the demand for Market 3 decreases to 50, how should the storage and distribution plan be designed to minimize total costs while satisfying all constraints?

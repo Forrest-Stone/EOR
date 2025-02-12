@@ -1,0 +1,10 @@
+How will the total water recovery rate change if the total water consumption limit for x2 and x3 is changed to a minimum of 2000 liters?
+How will the total water recovery rate change if the difference in water consumption between x3 and x4 is increased to 1500 liters?
+How will the total water recovery rate change if the difference in water consumption between x4 and x1 is reduced to 300 liters?
+How will the total water recovery rate change if the unit water recovery rate for x1 increases to 0.85?
+How will the total water recovery rate change if the unit water recovery rates for x2 and x3 decrease to 0.65 and 0.85, respectively?
+How should water resources be allocated to maximize the total water recovery rate if the difference in water consumption between x3 and x4 must be at least 2000 liters?
+How should water resources be allocated to maximize the total water recovery rate if the water recovery rate for x2 increases to 0.75, but the total water consumption for x2 and x3 must not exceed 5000 liters?
+How should water resources be allocated to maximize the total water recovery rate if the maximum water consumption capacity for x2 decreases to 3500 liters, but the total water consumption for x2 and x3 must be at least 4500 liters?
+How should water resources be allocated to maximize the total water recovery rate if the total water consumption increases to 15,000 liters, and the water recovery rate for x1 increases to 0.85?
+How will the total water recovery rate change if we remove the constraint that the total water consumption of x1 and x2 cannot exceed 5000 liters?

@@ -1,0 +1,10 @@
+How will the task allocation change to maximize efficiency and minimize wage costs if the farmer's available workers increase to 120?
+How will the optimal worker allocation change if the requirement for the number of workers for wheat harvesting is reduced from at least 30% to 25%?
+How should the workers be reallocated to maximize efficiency if the upper limit for the number of workers for cow milking is increased from 40% to 50%?
+How should the task allocation be adjusted to meet the new constraints if the requirement for the number of workers for chicken feeding is reduced to 15 and the number of workers for wheat harvesting is increased to at least 35?
+How will the optimal worker allocation be affected if the wage cost per worker increases from $10 to $12?
+How will the task allocation change to maximize efficiency if each task requires at least 5 workers to be allocated?
+How should the workers be reallocated to achieve the highest efficiency if the number of workers for cow milking must equal the number of workers for wheat harvesting?
+If the number of workers for wheat harvesting must be greater than or equal to the number of workers for chicken feeding, how should the workers be allocated to maximize task completion efficiency?
+How will the optimal allocation change if the farmer's total number of workers decreases to 90 and the requirement for the number of workers for cow milking is reduced to 30?
+How will the worker allocation change to maximize efficiency if the constraint requiring at least 20 workers for chicken feeding is removed?

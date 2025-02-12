@@ -1,0 +1,8 @@
+Question: How should the activities be rearranged to maintain maximum satisfaction if the cost of Activity A increases to $190?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the cost of Activity A\ncosts['A'] = 190"
+}
+```

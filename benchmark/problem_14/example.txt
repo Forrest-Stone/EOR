@@ -1,0 +1,29 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 6 rows, 8 columns and 16 nonzeros
+Model fingerprint: 0x7d140ca3
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+01, 6e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+02, 4e+02]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+Presolved: 1 rows, 5 columns, 5 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.5500000e+04   1.500000e+01   0.000000e+00      0s
+       1    1.7900000e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  1.790000000e+04
+Minimum total cost: 17900.00 yuan
+Allocate 100.00 tons of garbage from region 1 to processing center 1
+Allocate 200.00 tons of garbage from region 2 to processing center 1
+Allocate 30.00 tons of garbage from region 3 to processing center 1
+Allocate 120.00 tons of garbage from region 3 to processing center 2
+Allocate 180.00 tons of garbage from region 4 to processing center 2

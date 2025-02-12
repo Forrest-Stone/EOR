@@ -1,0 +1,8 @@
+Question: If the total production capacity for production line A is reduced to 350 pieces, how should the tasks be allocated to minimize total energy consumption and production cost?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Updated total production capacity for line A\ncapacity['A'] = 350"
+}
+```

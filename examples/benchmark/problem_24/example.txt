@@ -1,0 +1,8 @@
+Question: How should the other transportation costs be adjusted to optimize the transportation plan if the transportation cost from distribution center B to city 3 decreases to 3?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the transportation cost from distribution center B to city 3\ntransport_costs[('B', 3)] = 3"
+}
+```

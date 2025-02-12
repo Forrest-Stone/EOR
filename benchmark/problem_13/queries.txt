@@ -1,0 +1,10 @@
+How would the minimum total energy consumption change if the data storage requirement increases to 12 PB?
+How would the allocation of servers change if the total number of servers in all data centers is limited to 1,000?
+How would the minimum total energy consumption change if the total number of servers in data centers A and B cannot exceed 300?
+How would the minimum total energy consumption change if the number of servers in data center C does not exceed 150?
+If the number of servers in data center A must be at least 10 fewer than the number of servers in data center B, how will the minimum total energy consumption change?
+How would the minimum total energy consumption change if the energy consumption per server in data centers B and C improves to 2.5 kW and 3.5 kW, respectively?
+How should the servers be allocated to minimize total energy consumption if the energy consumption in data center C is reduced to 3.5 kW per server, but data center C must handle at least 50 servers?
+How should the servers be allocated to minimize total energy consumption if the number of servers in data center C increases to 350, but the number of servers in data centers A and B must be the same?
+If the maximum energy consumption standard for data center A increases to 3kW per server, but the energy consumption in data center C decreases to 3.5kW per server, how should servers be allocated to minimize total energy consumption?
+If the constraint that the number of servers in data center A cannot exceed 500 is removed, how will the minimum total energy consumption change?

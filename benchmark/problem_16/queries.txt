@@ -1,0 +1,10 @@
+How should the service allocation be adjusted if the center's daily budget is reduced to 400 yuan and the service time limit remains at 6 hours?
+How will the optimal service allocation change if the costs for service types S1 and S2 increase to 60 yuan and 90 yuan, respectively?
+How will the optimal service allocation change if service type S1 can only be provided a maximum of 8 times?
+What changes will occur in the expected effect if the cost of service type S3 increases to 120 yuan?
+How will the expected effects change if the expected effect for service type S1 increases to 80 points and the expected effect for service type S2 increases to 95 points?
+How should the services be allocated to maximize expected effects if the number of services for types S1 and S2 must be equal and the budget limit is increased to 700 yuan?
+How will the requirement to provide service types S1 and S2 at least once a day affect the service allocation?
+How will the overall service allocation be affected if the cost of service type S2 increases to 100 yuan but its expected effect also improves to 100 points?
+How should the services be reallocated to achieve the highest expected effect if the service time for S1 increases to 40 minutes while the service time for S3 decreases to 60 minutes?
+How should the services be reallocated to achieve the highest expected effect if service type S1 is temporarily not provided?

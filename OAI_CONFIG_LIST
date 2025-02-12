@@ -1,0 +1,7 @@
+[
+    {
+        "model": "gpt-4-turbo",
+        "base_url": "your_base_url",
+        "api_key": "your_api_key"
+    }
+]

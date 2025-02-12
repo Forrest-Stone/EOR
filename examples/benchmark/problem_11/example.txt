@@ -1,0 +1,8 @@
+Question: How would the total cost change if the unit cost for community x1 increases to $80?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Change the unit cost for community x1\nunit_cost['x1'] = 80"
+}
+```

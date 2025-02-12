@@ -1,0 +1,10 @@
+How would the minimum daily dietary cost change if the protein requirement increases to 80 grams and the fat requirement increases to 40 grams?
+How would the minimum daily dietary cost change if the daily carbohydrate requirement cannot exceed 150 grams?
+How would the minimum daily dietary cost change if the daily carbohydrate intake is required to be 0 grams?
+How would the minimum daily dietary cost change if the price of chicken breast increases by 10%?
+How would the minimum daily dietary cost change if the carbohydrate content of brown rice and avocado increases to 25 grams and 12 grams, respectively?
+How should daily food intake be planned to meet nutritional needs at the lowest price if the price of chicken breast decreases to 12 yuan per 100 grams, but the daily protein requirement increases to 70 grams?
+How should daily food intake be planned to meet nutritional needs at the lowest price if the fat content of brown rice changes to 2 grams and the daily fat requirement increases to 50 grams?
+How should daily food intake be planned to meet nutritional needs at the lowest price if the protein content of each food decreases by 1 gram and the fat content increases by 1 gram?
+If a maximum of 100 grams of daily protein intake is required and the constraint of "consume at least 30 grams of fat per day" is removed, how should he plan his daily food intake to meet nutritional needs at the lowest price?
+How should daily food intake be planned to meet nutritional needs at the lowest price if the maximum daily intake of carbohydrates and fat is capped at 180 grams?

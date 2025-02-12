@@ -1,0 +1,9 @@
+Question: How should the service allocation be adjusted if the center's daily budget is reduced to 300 yuan and service type S2 is temporarily not provided?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update the center's daily budget to 300 yuan\ndaily_budget = 300",
+    "ADD CONSTRAINT": "# Constraint: Exclude service S2 from being provided\nm.addConstr(x['S2'] == 0, name='ExcludeServiceS2')"
+}
+```

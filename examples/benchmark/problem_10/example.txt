@@ -1,0 +1,8 @@
+Question: How should the parks be allocated to maximize expected benefits if the total budget for the city is reduced to 7 million?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Updated total budget to 700 thousand\nbudget = 700"
+}
+```

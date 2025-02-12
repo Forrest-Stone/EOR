@@ -1,0 +1,10 @@
+How should the number of aircraft be adjusted to maximize economic efficiency if the operating cost of the large aircraft (Type A) is reduced to $8,000?
+How should the number of aircraft be reassessed to meet transportation demand if the passenger capacity of the small aircraft (Type B) increases to 250 passengers?
+How should the aircraft configuration be adjusted to maximize profit if the operating cost of the Type B aircraft decreases to $4,000 and the passenger capacity of the Type A aircraft increases to 550 passengers?
+How should the number of aircraft be adjusted to maintain minimum total cost if the operating costs of both Type A and Type B aircraft increase by 10%?
+How should the aircraft configuration be adjusted to meet demand if the company decides to limit the number of Type A aircraft operated to no more than 15 and the number of Type B aircraft to no more than 30?
+How should the number of aircraft be adjusted to maintain demand if the passenger capacity of the Type A aircraft decreases to 450 passengers and the operating cost of the Type B aircraft increases to $6,000?
+How should the number of aircraft be adjusted to maximize transportation efficiency if the passenger capacity of the large aircraft increases to 600 passengers and the cost of the small aircraft increases to $5,500?
+How should the number of aircraft be arranged to meet passenger demand and minimize costs if the airline needs to operate at least 10 Type B aircraft?
+How should the number of aircraft be adjusted to maintain economic efficiency if the passenger capacity of the small aircraft (Type B) decreases to 150 passengers and the cost of the large aircraft (Type A) increases to $12,000?
+How will the optimal aircraft configuration change if the constraint that the total number of Type A and Type B aircraft operated cannot exceed 50 is removed?

@@ -1,0 +1,8 @@
+Question: How will the optimal resource allocation change if the personnel demand for seagrass increases to 42 units?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Modify the resource_requirements for Seagrass \nresource_requirements['Seagrass'][0] = 42"
+}
+```

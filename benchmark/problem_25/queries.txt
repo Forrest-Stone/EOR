@@ -1,0 +1,10 @@
+How should the production plan be adjusted to maintain maximum total profit if the production cost of drug B increases to $35?
+How should the production arrangement be adjusted to maintain maximum total profit if the minimum production requirement for drug B increases to 30 units?
+How should the production quantities of each drug be adjusted to maximize total profit if the inventory of Raw Material 1 increases to 200 units?
+If the selling price of drug A decreases to $40, and the minimum production requirement for drug A increases to 35 units, how should the production quantities be adjusted to maintain maximum profit?
+How should the production quantities be adjusted to maximize total profit if the minimum production requirement for drug A decreases to 20 units and the maximum production limit for drug B increases to 50 units?
+How should the optimal production quantities be reassessed to maintain maximum profit if the selling prices for drugs A and B both increase by 10%?
+How should the production of drugs A and B be allocated to maximize profit if the total production capacity for both drugs is limited to 80 units?
+How should the optimal production combination be designed if the company decides to produce under the condition that the profit difference between drugs A and B does not exceed $500?
+How should the production arrangements be adjusted to meet the condition that the production quantity of drug A must be greater than or equal to that of drug B?
+How will the optimal production arrangement change if the constraint that the minimum production quantity for drug A is 30 units is removed?

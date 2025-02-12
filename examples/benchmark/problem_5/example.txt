@@ -1,0 +1,8 @@
+Question: If the demand for Market 2 increases to 90, and the maximum storage capacity of warehouse B increases to 290, how will the total storage and transportation costs change?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update demand for market 2\ndemand[2] = 90\n# Update maximum storage capacity for warehouse B\ncapacity['B'] = 290"
+}
+```

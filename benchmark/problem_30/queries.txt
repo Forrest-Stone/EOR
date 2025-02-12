@@ -1,0 +1,10 @@
+How should the number of ships be adjusted to maximize transportation efficiency if the operating cost of the large cargo ship (Type A) is reduced to $28,000?
+How should the ship configuration be reassessed to meet transportation demand if the cargo capacity of the medium cargo ship (Type B) increases to 600 tons?
+How should the ship combination be adjusted to maintain minimum cost if the operating cost of the small cargo ship (Type C) is reduced to $6,000 and the cargo capacity of the large cargo ship (Type A) is reduced to 800 tons?
+How should the ship combination be adjusted to maximize transportation efficiency if the operating cost of the medium cargo ship (Type B) increases to $16,000 and the cargo capacity of the small cargo ship (Type C) increases to 250 tons?
+How should the ship combination be adjusted to meet transportation demand if the maximum operating limit for large cargo ships (Type A) is set to 15 ships and for small cargo ships (Type C) is set to 35 ships?
+How should the number of ships be adjusted to meet transportation demand if the available berths at the port decrease to 50 per day?
+How should the ship configuration be adjusted to maintain transportation efficiency if the cargo capacity of the small cargo ship (Type C) is reduced to 150 tons and the operating cost of the large cargo ship (Type A) increases to $32,000?
+How should the number of ships be adjusted to maximize transportation capacity if the cargo capacity and operating cost of the medium cargo ship (Type B) both increase by 10%?
+How should the number of ships be adjusted to maximize transportation capacity if the total number of large cargo ships (Type A) and small cargo ships (Type C) cannot be fewer than 25?
+How will the optimal ship configuration change if the constraint that the maximum number of small cargo ships (Type C) is limited to 40 ships is removed?

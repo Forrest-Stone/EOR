@@ -1,0 +1,8 @@
+Question: How should the loan portfolio be adjusted to maintain maximum returns if both the risk exposure of personal loans and corporate loans increase by 30%?
+
+Answer Code:
+```json
+{
+    "ADD DATA": "# Update risk exposure limit of personal loans and corporate loans\nrisk_exposure_personal_loan_limit = 10400\nrisk_exposure_corporate_loan_limit = 13000"
+}
+```

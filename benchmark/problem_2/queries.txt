@@ -1,0 +1,10 @@
+If the total resource allocation limit for projects x1 and x2 increases to $12 million, how will the total investment change?
+If the total resource allocation lower limit for projects x2 and x3 decreases to $6 million, what will happen to the total investment?
+If the resource allocation difference between projects x3 and x4 cannot exceed $1 million, how will this affect the total investment?
+If the resource allocation difference requirement between projects x4 and x1 is reduced to $2 million, what changes will occur in the total investment?
+If the resource upper limit for project x1 increases to $7 million, how should the resource allocation be adjusted to maximize total investment?
+If the resource upper limit for project x3 decreases to $5 million, what changes will occur in the total investment and resource allocation?
+If the resource difference between projects x2 and x4 must be at least $3 million, how will this affect the total investment?
+If the resource allocated to project x2 must be at least $3 million more than those allocated to project x1, and the total resource allocation for projects x1 and x3 cannot exceed $9 million, how will the maximum total investment amount change?
+If the resource upper limit for project x2 decreases to $5 million, and the total resource allocation for projects x2 and x4 cannot be less than $9 million, how will the maximum total investment amount change?
+If we remove the constraint “The sum of resources allocated to projects x2 and x3 must be at least $8 million,” how will the total investment change?

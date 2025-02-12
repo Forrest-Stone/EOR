@@ -1,0 +1,10 @@
+How should the factory's production plan be adjusted to maximize profit if the warehouse space increases to 600 square meters?
+How should the production quantities of each type of furniture be allocated to maximize profit if the factory must reduce the total production to a maximum of 150 items?
+How will the optimal production allocation be affected if the manufacturing cost of chairs increases from $20 to $30?
+How should the factory's production plan change to achieve maximum profit if it can produce a maximum of 120 bookshelves per day?
+How should the factory's production strategy be adjusted to increase profit if the manufacturing cost of tables decreases to $100 and the market price of bookshelves rises to $180?
+How will the optimal production quantities change if the selling price of chairs decreases to $40 while the manufacturing cost of bookshelves decreases to $80?
+How should the production plan be adjusted to maximize profit if the selling price of each bookshelf increases to $180 and at least 15 tables are required to be produced?
+How should the production plan be adjusted to maximize profit if the selling price of bookshelves decreases to $140 and the production limit for bookshelves increases from 20 to 30?
+How should the production be allocated to achieve the highest profit if the production quantities of each product must be equal and the selling prices and manufacturing costs remain unchanged?
+How will the production plan change to maximize profit if the constraint of producing at least 10 tables is removed?

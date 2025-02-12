@@ -1,0 +1,25 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Model fingerprint: 0x244c1449
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+01]
+  Objective range  [2e+01, 3e+01]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.250000e+01   0.000000e+00      0s
+       1    7.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.00 seconds (0.00 work units)
+Optimal objective  7.500000000e+01
+Minimum total cost: $75
+Optimal operating hours for vehicle type X: 0 hours
+Optimal operating hours for vehicle type Y: 2 hours

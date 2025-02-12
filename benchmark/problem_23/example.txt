@@ -1,0 +1,32 @@
+Restricted license - for non-production use only - expires 2025-11-24
+Gurobi Optimizer version 11.0.2 build v11.0.2rc0 (linux64 - "Ubuntu 20.04.3 LTS")
+
+CPU model: Intel(R) Xeon(R) Silver 4309Y CPU @ 2.80GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 16 physical cores, 32 logical processors, using up to 32 threads
+
+Optimize a model with 5 rows, 4 columns and 10 nonzeros
+Model fingerprint: 0x0712f619
+Variable types: 0 continuous, 4 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+01, 3e+02]
+  Bounds range     [6e+02, 9e+02]
+  RHS range        [5e+01, 5e+02]
+Found heuristic solution: objective 370000.00000
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 32 available processors)
+
+Solution count 2: 45000 370000 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.500000000000e+04, best bound 4.500000000000e+04, gap 0.0000%
+Minimum total cost: 45000 dollars
+Optimal production line operating times (hours):
+x1 = -0.0
+x2 = 300.0
+x3 = -0.0
+x4 = 50.0
